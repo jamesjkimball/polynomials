@@ -1,1 +1,1 @@
-from .polynomials import Polynomials
+from .polynomials import Polynomial
